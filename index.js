@@ -6,7 +6,7 @@ const quiz = {
         {
             "type": "single",
             "question": "Je suis souvent critique envers moi-même lorsque je fais une erreur",
-            "answers": ["Not at all", "Not really", "Kind of", "Yes", "Absolutely"],
+            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
             "entered": [],
             "trait": [null, [1]],
             "correct": ""
@@ -14,7 +14,7 @@ const quiz = {
         {
             "type": "single",
             "question": "Je cherche constamment à améliorer ce que je fais",
-            "answers": ["Not at all", "Not really", "Kind of", "Yes", "Absolutely"],
+            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
             "entered": [],
             "trait": [null, [1]],
             "correct": ""
@@ -22,7 +22,7 @@ const quiz = {
         {
             "type": "single",
             "question": "Je ne me sens pas responsable de corriger ce qui ne va pas autour de moi",
-            "answers": ["Not at all", "Not really", "Kind of", "Yes", "Absolutely"],
+            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
             "entered": [],
             "trait": [[1, 8], null],
             "correct": ""
@@ -30,7 +30,7 @@ const quiz = {
         {
             "type": "single",
             "question": "Il m’arrive de me frustrer quand les autres ne respectent pas les règles",
-            "answers": ["Not at all", "Not really", "Kind of", "Yes", "Absolutely"],
+            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
             "entered": [],
             "trait": [null, [1]],
             "correct": ""
@@ -38,7 +38,7 @@ const quiz = {
         {
             "type": "single",
             "question": "J'ai du mal à dire non quand quelqu’un a besoin de moi",
-            "answers": ["Not at all", "Not really", "Kind of", "Yes", "Absolutely"],
+            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
             "entered": [],
             "trait": [null, [2]],
             "correct": ""
@@ -46,7 +46,7 @@ const quiz = {
         {
             "type": "single",
             "question": "Je me sens utile quand on reconnaît ce que je fais pour les autres",
-            "answers": ["Not at all", "Not really", "Kind of", "Yes", "Absolutely"],
+            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
             "entered": [],
             "trait": [null, [2]],
             "correct": ""
@@ -54,7 +54,7 @@ const quiz = {
         {
             "type": "single",
             "question": "Je peux parfois oublier mes propres besoins pour aider les autre",
-            "answers": ["Not at all", "Not really", "Kind of", "Yes", "Absolutely"],
+            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
             "entered": [],
             "trait": [null, [2, 9]],
             "correct": ""
@@ -62,7 +62,7 @@ const quiz = {
         {
             "type": "single",
             "question": "Il faut donner en premier pour recevoir en retour",
-            "answers": ["Not at all", "Not really", "Kind of", "Yes", "Absolutely"],
+            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
             "entered": [],
             "trait": [null, [2]],
             "correct": ""
@@ -70,262 +70,279 @@ const quiz = {
         {
             "type": "single",
             "question": "J’ai toujours besoin d’avoir un objectif à atteindre",
-            "answers": ["Not at all", "Not really", "Kind of", "Yes", "Absolutely"],
+            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
             "entered": [],
             "trait": [null, [3]],
             "correct": ""
         },
-{
+        {
             "type": "single",
             "question": "Je préfère mentir qu’admettre un échec",
-            "answers": ["Not at all", "Not really", "Kind of", "Yes", "Absolutely"],
+            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
             "entered": [],
             "trait": [null, [3]],
             "correct": ""
         },
-{
+        {
             "type": "single",
             "question": "Il est important pour moi de réussir et d’être reconnu",
-            "answers": ["Not at all", "Not really", "Kind of", "Yes", "Absolutely"],
+            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
             "entered": [],
             "trait": [null, [3]],
             "correct": ""
         },
-{
+        {
             "type": "single",
             "question": "Je me définis beaucoup à travers ce que je fais et ce que j’accomplis",
-            "answers": ["Not at all", "Not really", "Kind of", "Yes", "Absolutely"],
+            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
             "entered": [],
             "trait": [null, [3]],
             "correct": ""
         },
-{
+        {
             "type": "single",
             "question": "Je n'ai pas besoin d'être productif pour me détendre",
-            "answers": ["Not at all", "Not really", "Kind of", "Yes", "Absolutely"],
+            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
             "entered": [],
             "trait": [[1, 3], null],
             "correct": ""
         },
-{
+        {
             "type": "single",
             "question": "J’ai l’impression d’être différent des autres, parfois même incompris",
-            "answers": ["Not at all", "Not really", "Kind of", "Yes", "Absolutely"],
+            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
             "entered": [],
             "trait": [null, [4]],
             "correct": ""
         },
-{
+        {
             "type": "single",
             "question": "Mes émotions sont très intenses et peuvent changer rapidement",
-            "answers": ["Not at all", "Not really", "Kind of", "Yes", "Absolutely"],
+            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
             "entered": [],
             "trait": [null, [4]],
             "correct": ""
         },
-{
+        {
             "type": "single",
             "question": "Je ressens parfois un vide intérieur",
-            "answers": ["Not at all", "Not really", "Kind of", "Yes", "Absolutely"],
+            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
             "entered": [],
             "trait": [null, [4]],
             "correct": ""
         },
-{
+        {
             "type": "single",
             "question": "Je cherche un sens profond à ce que je vis",
-            "answers": ["Not at all", "Not really", "Kind of", "Yes", "Absolutely"],
+            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
             "entered": [],
             "trait": [null, [4]],
             "correct": ""
         },
-{
+        {
             "type": "single",
             "question": "J’ai besoin de beaucoup de temps seul pour réfléchir",
-            "answers": ["Not at all", "Not really", "Kind of", "Yes", "Absolutely"],
+            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
             "entered": [],
             "trait": [null, [5]],
             "correct": ""
         },
-{
+        {
             "type": "single",
             "question": "Je préfère observer plutôt que participer activement en groupe",
-            "answers": ["Not at all", "Not really", "Kind of", "Yes", "Absolutely"],
+            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
             "entered": [],
             "trait": [null, [5]],
             "correct": ""
         },
-{
+        {
             "type": "single",
             "question": "J’ai souvent l’impression que mes ressources (temps, énergie) sont limitées",
-            "answers": ["Not at all", "Not really", "Kind of", "Yes", "Absolutely"],
+            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
             "entered": [],
             "trait": [null, [5]],
             "correct": ""
         },
-{
+        {
             "type": "single",
             "question": "Je préfère comprendre quelque chose en profondeur avant d’agir",
-            "answers": ["Not at all", "Not really", "Kind of", "Yes", "Absolutely"],
+            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
             "entered": [],
             "trait": [null, [5]],
             "correct": ""
         },
-{
+        {
             "type": "single",
             "question": "Je me connecte facilement aux autres",
-            "answers": ["Not at all", "Not really", "Kind of", "Yes", "Absolutely"],
+            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
             "entered": [],
             "trait": [[5], null],
             "correct": ""
         },
-{
+        {
             "type": "single",
             "question": "Je suis souvent préoccupé par ce qui pourrait mal tourner",
-            "answers": ["Not at all", "Not really", "Kind of", "Yes", "Absolutely"],
+            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
             "entered": [],
             "trait": [null, [6]],
             "correct": ""
         },
-{
+        {
             "type": "single",
             "question": "J’ai besoin de repères ou de personnes en qui je peux avoir confiance",
-            "answers": ["Not at all", "Not really", "Kind of", "Yes", "Absolutely"],
+            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
             "entered": [],
             "trait": [null, [6]],
             "correct": ""
         },
-{
+        {
             "type": "single",
             "question": "Je peux être à la fois méfiant et très fidèle envers les personnes que j’estime",
-            "answers": ["Not at all", "Not really", "Kind of", "Yes", "Absolutely"],
+            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
             "entered": [],
             "trait": [null, [6]],
             "correct": ""
         },
-{
+        {
             "type": "single",
             "question": "Je considère la loyauté comme une des qualités les plus importante",
-            "answers": ["Not at all", "Not really", "Kind of", "Yes", "Absolutely"],
+            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
             "entered": [],
             "trait": [null, [6]],
             "correct": ""
         },
-{
+        {
             "type": "single",
             "question": "Je dois tout planifier pour me sentir en sécurité",
-            "answers": ["Not at all", "Not really", "Kind of", "Yes", "Absolutely"],
+            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
             "entered": [],
             "trait": [null, [6]],
             "correct": ""
         },
-{
+        {
             "type": "single",
             "question": "J'aime la routine et n'ai pas besoin de nouvelles expériences pour m'épanouir",
-            "answers": ["Not at all", "Not really", "Kind of", "Yes", "Absolutely"],
+            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
             "entered": [],
             "trait": [[4, 7], null],
             "correct": ""
         },
-{
+        {
             "type": "single",
             "question": "Je préfère éviter les émotions désagréables ou les conflits",
-            "answers": ["Not at all", "Not really", "Kind of", "Yes", "Absolutely"],
+            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
             "entered": [],
             "trait": [null, [7, 9]],
             "correct": ""
         },
-{
+        {
             "type": "single",
             "question": "Quand quelque chose devient ennuyeux ou négatif, je passe à autre chose",
-            "answers": ["Not at all", "Not really", "Kind of", "Yes", "Absolutely"],
+            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
             "entered": [],
             "trait": [null, [7]],
             "correct": ""
         },
-{
+        {
             "type": "single",
             "question": "Je n'ai pas de difficulté à rester concentré sur une seule chose",
-            "answers": ["Not at all", "Not really", "Kind of", "Yes", "Absolutely"],
+            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
             "entered": [],
             "trait": [[7], null],
             "correct": ""
         },
-{
+        {
             "type": "single",
             "question": "Je ne supporte pas l’injustice, je réagis rapidement face à elle",
-            "answers": ["Not at all", "Not really", "Kind of", "Yes", "Absolutely"],
+            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
             "entered": [],
             "trait": [null, [8]],
             "correct": ""
         },
-{
+        {
             "type": "single",
             "question": "Je préfère diriger que me laisser diriger",
-            "answers": ["Not at all", "Not really", "Kind of", "Yes", "Absolutely"],
+            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
             "entered": [],
             "trait": [null, [3, 8]],
             "correct": ""
         },
-{
+        {
             "type": "single",
             "question": "Je me sens mieux quand je garde le contrôle dans une situation",
-            "answers": ["Not at all", "Not really", "Kind of", "Yes", "Absolutely"],
+            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
             "entered": [],
             "trait": [null, [8]],
             "correct": ""
         },
-{
+        {
             "type": "single",
             "question": "Je n'ai pas de difficulté à montrer mes faiblesses",
-            "answers": ["Not at all", "Not really", "Kind of", "Yes", "Absolutely"],
+            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
             "entered": [],
             "trait": [[8], null],
             "correct": ""
         },
-{
+        {
             "type": "single",
             "question": "Je suis direct·e, franc·he et parfois intimidant·e",
-            "answers": ["Not at all", "Not really", "Kind of", "Yes", "Absolutely"],
+            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
             "entered": [],
             "trait": [null, [8]],
             "correct": ""
         },
-{
-
+        {
             "type": "single",
             "question": "Je fais souvent des compromis pour préserver la paix autour de moi",
-            "answers": ["Not at all", "Not really", "Kind of", "Yes", "Absolutely"],
+            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
             "entered": [],
             "trait": [null, [9]],
             "correct": ""
         },
-{
+        {
             "type": "single",
             "question": "Je suis dans l’acceptation, même avec les idéaux que je ne partage pas",
-            "answers": ["Not at all", "Not really", "Kind of", "Yes", "Absolutely"],
+            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
             "entered": [],
             "trait": [null, [9]],
             "correct": ""
         },
-{
+        {
             "type": "single",
             "question": "Je repousse souvent mes travaux au lendemain quand c'est trop tendu",
-            "answers": ["Not at all", "Not really", "Kind of", "Yes", "Absolutely"],
+            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
             "entered": [],
             "trait": [null, [9]],
             "correct": ""
         },
-{
+        {
             "type": "single",
             "question": "Je possède une force tranquille, une présence apaisante",
-            "answers": ["Not at all", "Not really", "Kind of", "Yes", "Absolutely"],
+            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
             "entered": [],
             "trait": [null, [9]],
             "correct": ""
-        },
+        }
     ]
 }
+
+function shuffle(array) {
+    let currentIndex = array.length;
+
+    // While there remain elements to shuffle...
+    while (currentIndex != 0) {
+        // Pick a remaining element...
+        let randomIndex = Math.floor(Math.random() * currentIndex);
+        currentIndex--;
+
+        // And swap it with the current element.
+        [array[currentIndex], array[randomIndex]] = [
+            array[randomIndex], array[currentIndex]];
+    }
+}
+
+shuffle(quiz.questions)
+
 // Tracks index of question on quiz
 let currentQuestionIndex = 0
 
@@ -376,7 +393,7 @@ const displayResult = (weights) => {
     let points = [];
     let miPoints = [];
     for (let i = 0; i < 9; i++) {
-        let point = {"x": cx + r * Math.cos(2 * Math.PI * i / 9 - Math.PI / 2), "y": cy + r * Math.sin(2 * Math.PI * i / 9 - Math.PI / 2)}
+        let point = {"x": cx + r * Math.cos(2 * Math.PI * (i + 1) / 9 - Math.PI / 2), "y": cy + r * Math.sin(2 * Math.PI * (i + 1) / 9 - Math.PI / 2)}
         let fpoint = {"x": 0, "y": 0}
         fpoint.x = Math.round((1 - weights[i]) * cx + weights[i] * point.x)
         fpoint.y = Math.round((1 - weights[i]) * cy + weights[i] * point.y)
@@ -408,17 +425,17 @@ const loadResult = (questions) => {
     for (let i = 0; i < questions.length; i++) {
         let answerWeight = (questions[i].entered[0] - 65) * 0.25
         let traitNo = questions[i].trait[0]
-        let traitYes = questions[i].trait[1]
+        let traitOui = questions[i].trait[1]
         if (traitNo === null) {
-            for (let j = 0; j < traitYes.length; j++) {
-                weights[traitYes[j]] += answerWeight; 
-                cnt[traitYes[j]]++
+            for (let j = 0; j < traitOui.length; j++) {
+                weights[traitOui[j] - 1] += answerWeight; 
+                cnt[traitOui[j] - 1]++
             }
         }
-        if (traitYes === null) {
+        if (traitOui === null) {
             for (let j = 0; j < traitNo.length; j++) {
-                weights[traitNo[j]] += answerWeight; 
-                cnt[traitNo[j]]++
+                weights[traitNo[j] - 1] += answerWeight; 
+                cnt[traitNo[j] - 1]++
             }
         }
     }

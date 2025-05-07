@@ -19,310 +19,418 @@ const quiz = {
             "trait": [null, [1]],
             "correct": ""
         },
-        {
-            "type": "single",
-            "question": "Je ne me sens pas responsable de corriger ce qui ne va pas autour de moi",
-            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
-            "entered": [],
-            "trait": [[1, 8], null],
-            "correct": ""
-        },
-        {
-            "type": "single",
-            "question": "Il m’arrive de me frustrer quand les autres ne respectent pas les règles",
-            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
-            "entered": [],
-            "trait": [null, [1]],
-            "correct": ""
-        },
-        {
-            "type": "single",
-            "question": "J'ai du mal à dire non quand quelqu’un a besoin de moi",
-            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
-            "entered": [],
-            "trait": [null, [2]],
-            "correct": ""
-        },
-        {
-            "type": "single",
-            "question": "Je me sens utile quand on reconnaît ce que je fais pour les autres",
-            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
-            "entered": [],
-            "trait": [null, [2]],
-            "correct": ""
-        },
-        {
-            "type": "single",
-            "question": "Je peux parfois oublier mes propres besoins pour aider les autre",
-            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
-            "entered": [],
-            "trait": [null, [2, 9]],
-            "correct": ""
-        },
-        {
-            "type": "single",
-            "question": "Il faut donner en premier pour recevoir en retour",
-            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
-            "entered": [],
-            "trait": [null, [2]],
-            "correct": ""
-        },
-        {
-            "type": "single",
-            "question": "J’ai toujours besoin d’avoir un objectif à atteindre",
-            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
-            "entered": [],
-            "trait": [null, [3]],
-            "correct": ""
-        },
-        {
-            "type": "single",
-            "question": "Je préfère mentir qu’admettre un échec",
-            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
-            "entered": [],
-            "trait": [null, [3]],
-            "correct": ""
-        },
-        {
-            "type": "single",
-            "question": "Il est important pour moi de réussir et d’être reconnu",
-            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
-            "entered": [],
-            "trait": [null, [3]],
-            "correct": ""
-        },
-        {
-            "type": "single",
-            "question": "Je me définis beaucoup à travers ce que je fais et ce que j’accomplis",
-            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
-            "entered": [],
-            "trait": [null, [3]],
-            "correct": ""
-        },
-        {
-            "type": "single",
-            "question": "Je n'ai pas besoin d'être productif pour me détendre",
-            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
-            "entered": [],
-            "trait": [[1, 3], null],
-            "correct": ""
-        },
-        {
-            "type": "single",
-            "question": "J’ai l’impression d’être différent des autres, parfois même incompris",
-            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
-            "entered": [],
-            "trait": [null, [4]],
-            "correct": ""
-        },
-        {
-            "type": "single",
-            "question": "Mes émotions sont très intenses et peuvent changer rapidement",
-            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
-            "entered": [],
-            "trait": [null, [4]],
-            "correct": ""
-        },
-        {
-            "type": "single",
-            "question": "Je ressens parfois un vide intérieur",
-            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
-            "entered": [],
-            "trait": [null, [4]],
-            "correct": ""
-        },
-        {
-            "type": "single",
-            "question": "Je cherche un sens profond à ce que je vis",
-            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
-            "entered": [],
-            "trait": [null, [4]],
-            "correct": ""
-        },
-        {
-            "type": "single",
-            "question": "J’ai besoin de beaucoup de temps seul pour réfléchir",
-            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
-            "entered": [],
-            "trait": [null, [5]],
-            "correct": ""
-        },
-        {
-            "type": "single",
-            "question": "Je préfère observer plutôt que participer activement en groupe",
-            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
-            "entered": [],
-            "trait": [null, [5]],
-            "correct": ""
-        },
-        {
-            "type": "single",
-            "question": "J’ai souvent l’impression que mes ressources (temps, énergie) sont limitées",
-            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
-            "entered": [],
-            "trait": [null, [5]],
-            "correct": ""
-        },
-        {
-            "type": "single",
-            "question": "Je préfère comprendre quelque chose en profondeur avant d’agir",
-            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
-            "entered": [],
-            "trait": [null, [5]],
-            "correct": ""
-        },
-        {
-            "type": "single",
-            "question": "Je me connecte facilement aux autres",
-            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
-            "entered": [],
-            "trait": [[5], null],
-            "correct": ""
-        },
-        {
-            "type": "single",
-            "question": "Je suis souvent préoccupé par ce qui pourrait mal tourner",
-            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
-            "entered": [],
-            "trait": [null, [6]],
-            "correct": ""
-        },
-        {
-            "type": "single",
-            "question": "J’ai besoin de repères ou de personnes en qui je peux avoir confiance",
-            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
-            "entered": [],
-            "trait": [null, [6]],
-            "correct": ""
-        },
-        {
-            "type": "single",
-            "question": "Je peux être à la fois méfiant et très fidèle envers les personnes que j’estime",
-            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
-            "entered": [],
-            "trait": [null, [6]],
-            "correct": ""
-        },
-        {
-            "type": "single",
-            "question": "Je considère la loyauté comme une des qualités les plus importante",
-            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
-            "entered": [],
-            "trait": [null, [6]],
-            "correct": ""
-        },
-        {
-            "type": "single",
-            "question": "Je dois tout planifier pour me sentir en sécurité",
-            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
-            "entered": [],
-            "trait": [null, [6]],
-            "correct": ""
-        },
-        {
-            "type": "single",
-            "question": "J'aime la routine et n'ai pas besoin de nouvelles expériences pour m'épanouir",
-            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
-            "entered": [],
-            "trait": [[4, 7], null],
-            "correct": ""
-        },
-        {
-            "type": "single",
-            "question": "Je préfère éviter les émotions désagréables ou les conflits",
-            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
-            "entered": [],
-            "trait": [null, [7, 9]],
-            "correct": ""
-        },
-        {
-            "type": "single",
-            "question": "Quand quelque chose devient ennuyeux ou négatif, je passe à autre chose",
-            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
-            "entered": [],
-            "trait": [null, [7]],
-            "correct": ""
-        },
-        {
-            "type": "single",
-            "question": "Je n'ai pas de difficulté à rester concentré sur une seule chose",
-            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
-            "entered": [],
-            "trait": [[7], null],
-            "correct": ""
-        },
-        {
-            "type": "single",
-            "question": "Je ne supporte pas l’injustice, je réagis rapidement face à elle",
-            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
-            "entered": [],
-            "trait": [null, [8]],
-            "correct": ""
-        },
-        {
-            "type": "single",
-            "question": "Je préfère diriger que me laisser diriger",
-            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
-            "entered": [],
-            "trait": [null, [3, 8]],
-            "correct": ""
-        },
-        {
-            "type": "single",
-            "question": "Je me sens mieux quand je garde le contrôle dans une situation",
-            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
-            "entered": [],
-            "trait": [null, [8]],
-            "correct": ""
-        },
-        {
-            "type": "single",
-            "question": "Je n'ai pas de difficulté à montrer mes faiblesses",
-            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
-            "entered": [],
-            "trait": [[8], null],
-            "correct": ""
-        },
-        {
-            "type": "single",
-            "question": "Je suis direct·e, franc·he et parfois intimidant·e",
-            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
-            "entered": [],
-            "trait": [null, [8]],
-            "correct": ""
-        },
-        {
-            "type": "single",
-            "question": "Je fais souvent des compromis pour préserver la paix autour de moi",
-            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
-            "entered": [],
-            "trait": [null, [9]],
-            "correct": ""
-        },
-        {
-            "type": "single",
-            "question": "Je suis dans l’acceptation, même avec les idéaux que je ne partage pas",
-            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
-            "entered": [],
-            "trait": [null, [9]],
-            "correct": ""
-        },
-        {
-            "type": "single",
-            "question": "Je repousse souvent mes travaux au lendemain quand c'est trop tendu",
-            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
-            "entered": [],
-            "trait": [null, [9]],
-            "correct": ""
-        },
-        {
-            "type": "single",
-            "question": "Je possède une force tranquille, une présence apaisante",
-            "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
-            "entered": [],
-            "trait": [null, [9]],
-            "correct": ""
-        }
+       {
+           "type": "single",
+           "question": "Je ne me sens pas responsable de corriger ce qui ne va pas autour de moi",
+           "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
+           "entered": [],
+           "trait": [[1, 8], null],
+           "correct": ""
+       },
+       {
+           "type": "single",
+           "question": "Il m’arrive de me frustrer quand les autres ne respectent pas les règles",
+           "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
+           "entered": [],
+           "trait": [null, [1]],
+           "correct": ""
+       },
+       {
+           "type": "single",
+           "question": "J'ai du mal à dire non quand quelqu’un a besoin de moi",
+           "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
+           "entered": [],
+           "trait": [null, [2]],
+           "correct": ""
+       },
+       {
+           "type": "single",
+           "question": "Je me sens utile quand on reconnaît ce que je fais pour les autres",
+           "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
+           "entered": [],
+           "trait": [null, [2]],
+           "correct": ""
+       },
+       {
+           "type": "single",
+           "question": "Je peux parfois oublier mes propres besoins pour aider les autre",
+           "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
+           "entered": [],
+           "trait": [null, [2, 9]],
+           "correct": ""
+       },
+       {
+           "type": "single",
+           "question": "Il faut donner en premier pour recevoir en retour",
+           "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
+           "entered": [],
+           "trait": [null, [2]],
+           "correct": ""
+       },
+       {
+           "type": "single",
+           "question": "J’ai toujours besoin d’avoir un objectif à atteindre",
+           "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
+           "entered": [],
+           "trait": [null, [3]],
+           "correct": ""
+       },
+       {
+           "type": "single",
+           "question": "Je préfère mentir qu’admettre un échec",
+           "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
+           "entered": [],
+           "trait": [null, [3]],
+           "correct": ""
+       },
+       {
+           "type": "single",
+           "question": "Il est important pour moi de réussir et d’être reconnu",
+           "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
+           "entered": [],
+           "trait": [null, [3]],
+           "correct": ""
+       },
+       {
+           "type": "single",
+           "question": "Je me définis beaucoup à travers ce que je fais et ce que j’accomplis",
+           "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
+           "entered": [],
+           "trait": [null, [3]],
+           "correct": ""
+       },
+       {
+           "type": "single",
+           "question": "Je n'ai pas besoin d'être productif pour me détendre",
+           "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
+           "entered": [],
+           "trait": [[1, 3], null],
+           "correct": ""
+       },
+       {
+           "type": "single",
+           "question": "J’ai l’impression d’être différent des autres, parfois même incompris",
+           "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
+           "entered": [],
+           "trait": [null, [4]],
+           "correct": ""
+       },
+       {
+           "type": "single",
+           "question": "Mes émotions sont très intenses et peuvent changer rapidement",
+           "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
+           "entered": [],
+           "trait": [null, [4]],
+           "correct": ""
+       },
+       {
+           "type": "single",
+           "question": "Je ressens parfois un vide intérieur",
+           "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
+           "entered": [],
+           "trait": [null, [4]],
+           "correct": ""
+       },
+       {
+           "type": "single",
+           "question": "Je cherche un sens profond à ce que je vis",
+           "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
+           "entered": [],
+           "trait": [null, [4]],
+           "correct": ""
+       },
+       {
+           "type": "single",
+           "question": "J’ai besoin de beaucoup de temps seul pour réfléchir",
+           "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
+           "entered": [],
+           "trait": [null, [5]],
+           "correct": ""
+       },
+       {
+           "type": "single",
+           "question": "Je préfère observer plutôt que participer activement en groupe",
+           "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
+           "entered": [],
+           "trait": [null, [5]],
+           "correct": ""
+       },
+       {
+           "type": "single",
+           "question": "J’ai souvent l’impression que mes ressources (temps, énergie) sont limitées",
+           "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
+           "entered": [],
+           "trait": [null, [5]],
+           "correct": ""
+       },
+       {
+           "type": "single",
+           "question": "Je préfère comprendre quelque chose en profondeur avant d’agir",
+           "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
+           "entered": [],
+           "trait": [null, [5]],
+           "correct": ""
+       },
+       {
+           "type": "single",
+           "question": "Je me connecte facilement aux autres",
+           "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
+           "entered": [],
+           "trait": [[5], null],
+           "correct": ""
+       },
+       {
+           "type": "single",
+           "question": "Je suis souvent préoccupé par ce qui pourrait mal tourner",
+           "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
+           "entered": [],
+           "trait": [null, [6]],
+           "correct": ""
+       },
+       {
+           "type": "single",
+           "question": "J’ai besoin de repères ou de personnes en qui je peux avoir confiance",
+           "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
+           "entered": [],
+           "trait": [null, [6]],
+           "correct": ""
+       },
+       {
+           "type": "single",
+           "question": "Je peux être à la fois méfiant et très fidèle envers les personnes que j’estime",
+           "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
+           "entered": [],
+           "trait": [null, [6]],
+           "correct": ""
+       },
+       {
+           "type": "single",
+           "question": "Je considère la loyauté comme une des qualités les plus importante",
+           "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
+           "entered": [],
+           "trait": [null, [6]],
+           "correct": ""
+       },
+       {
+           "type": "single",
+           "question": "Je dois tout planifier pour me sentir en sécurité",
+           "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
+           "entered": [],
+           "trait": [null, [6]],
+           "correct": ""
+       },
+       {
+           "type": "single",
+           "question": "J'aime la routine et n'ai pas besoin de nouvelles expériences pour m'épanouir",
+           "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
+           "entered": [],
+           "trait": [[4, 7], null],
+           "correct": ""
+       },
+       {
+           "type": "single",
+           "question": "Je préfère éviter les émotions désagréables ou les conflits",
+           "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
+           "entered": [],
+           "trait": [null, [7, 9]],
+           "correct": ""
+       },
+       {
+           "type": "single",
+           "question": "Quand quelque chose devient ennuyeux ou négatif, je passe à autre chose",
+           "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
+           "entered": [],
+           "trait": [null, [7]],
+           "correct": ""
+       },
+       {
+           "type": "single",
+           "question": "Je n'ai pas de difficulté à rester concentré sur une seule chose",
+           "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
+           "entered": [],
+           "trait": [[7], null],
+           "correct": ""
+       },
+       {
+           "type": "single",
+           "question": "Je ne supporte pas l’injustice, je réagis rapidement face à elle",
+           "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
+           "entered": [],
+           "trait": [null, [8]],
+           "correct": ""
+       },
+       {
+           "type": "single",
+           "question": "Je préfère diriger que me laisser diriger",
+           "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
+           "entered": [],
+           "trait": [null, [3, 8]],
+           "correct": ""
+       },
+       {
+           "type": "single",
+           "question": "Je me sens mieux quand je garde le contrôle dans une situation",
+           "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
+           "entered": [],
+           "trait": [null, [8]],
+           "correct": ""
+       },
+       {
+           "type": "single",
+           "question": "Je n'ai pas de difficulté à montrer mes faiblesses",
+           "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
+           "entered": [],
+           "trait": [[8], null],
+           "correct": ""
+       },
+       {
+           "type": "single",
+           "question": "Je suis direct·e, franc·he et parfois intimidant·e",
+           "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
+           "entered": [],
+           "trait": [null, [8]],
+           "correct": ""
+       },
+       {
+           "type": "single",
+           "question": "Je fais souvent des compromis pour préserver la paix autour de moi",
+           "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
+           "entered": [],
+           "trait": [null, [9]],
+           "correct": ""
+       },
+       {
+           "type": "single",
+           "question": "Je suis dans l’acceptation, même avec les idéaux que je ne partage pas",
+           "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
+           "entered": [],
+           "trait": [null, [9]],
+           "correct": ""
+       },
+       {
+           "type": "single",
+           "question": "Je repousse souvent mes travaux au lendemain quand c'est trop tendu",
+           "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
+           "entered": [],
+           "trait": [null, [9]],
+           "correct": ""
+       },
+       {
+           "type": "single",
+           "question": "Je possède une force tranquille, une présence apaisante",
+           "answers": ["Pas du tout", "Pas vraiment", "Plus ou moins", "Oui", "Absolument"],
+           "entered": [],
+           "trait": [null, [9]],
+           "correct": ""
+       }
+    ],
+    "questions-diff" : [
+        {"type": "single", "question": "Préférez-vous corriger les défauts des autres ou les combler affectivement ?", "answers": ["Corriger les défauts ", "Combler affectivement "], "entered": [], "trait": [1, 2], "correct": ""},
+        {"type": "single", "question": "Vous sentez-vous motivé par l'amélioration morale ou par le fait de plaire et d’aider ?", "answers": ["Amélioration morale ", "Faire plaisir et aider "], "entered": [], "trait": [1, 2], "correct": ""},
+
+        {"type": "single", "question": "Votre priorité est-elle de faire les choses « bien » ou d’atteindre l’objectif ?", "answers": ["Faire les choses bien ", "Atteindre l'objectif "], "entered": [], "trait": [1, 3], "correct": ""},
+        {"type": "single", "question": "Avez-vous besoin que votre travail soit moralement juste ou publiquement reconnu ?", "answers": ["Moralement juste ", "Publiquement reconnu "], "entered": [], "trait": [1, 3], "correct": ""},
+
+        {"type": "single", "question": "Votre idéalisme est-il tourné vers des valeurs universelles ou vers votre quête personnelle ?", "answers": ["Valeurs universelles ", "Quête personnelle "], "entered": [], "trait": [1, 4], "correct": ""},
+        {"type": "single", "question": "Contrôlez-vous vos émotions ou vivez-vous des hauts et bas émotionnels ?", "answers": ["Contrôle des émotions ", "Hauts et bas émotionnels "], "entered": [], "trait": [1, 4], "correct": ""},
+
+        {"type": "single", "question": "Êtes-vous préoccupé par faire les choses correctement ou par comprendre en profondeur ?", "answers": ["Faire correctement ", "Comprendre en profondeur "], "entered": [], "trait": [1, 5], "correct": ""},
+        {"type": "single", "question": "Vous fiez-vous plus à des règles morales ou à l’analyse rationnelle ?", "answers": ["Règles morales ", "Analyse rationnelle "], "entered": [], "trait": [1, 5], "correct": ""},
+
+        {"type": "single", "question": "Évitez-vous les erreurs par souci moral ou par anticipation du danger ?", "answers": ["Souci moral ", "Anticipation du danger "], "entered": [], "trait": [1, 6], "correct": ""},
+        {"type": "single", "question": "Corrigez-vous pour atteindre la perfection ou pour éviter les risques ?", "answers": ["Atteindre la perfection ", "Éviter les risques "], "entered": [], "trait": [1, 6], "correct": ""},
+
+        {"type": "single", "question": "Avez-vous tendance à être modéré et responsable ou à chercher plaisir et variété ?", "answers": ["Modéré et responsable ", "Plaisir et variété "], "entered": [], "trait": [1, 7], "correct": ""},
+        {"type": "single", "question": "Visez-vous l’ordre et la structure ou la spontanéité et la liberté ?", "answers": ["Ordre et structure ", "Spontanéité et liberté "], "entered": [], "trait": [1, 7], "correct": ""},
+
+        {"type": "single", "question": "Réprimez-vous votre colère et vos envies ou les exprimez-vous immédiatement ?", "answers": ["Réprimer ", "Exprimer immédiatement "], "entered": [], "trait": [1, 8], "correct": ""},
+        {"type": "single", "question": "Êtes-vous retenu et autocritique ou direct et affirmé ?", "answers": ["Retenu et autocritique ", "Direct et affirmé "], "entered": [], "trait": [1, 8], "correct": ""},
+
+        {"type": "single", "question": "Voulez-vous que les autres changent ou préférez-vous vous adapter ?", "answers": ["Vouloir que les autres changent ", "S'adapter "], "entered": [], "trait": [1, 9], "correct": ""},
+        {"type": "single", "question": "Êtes-vous rigide sur vos principes ou conciliant sur les différences ?", "answers": ["Rigide sur les principes ", "Conciliant "], "entered": [], "trait": [1, 9], "correct": ""},
+
+        {"type": "single", "question": "Cherchez-vous l’affection en donnant ou l’admiration en réussissant ?", "answers": ["Affection en donnant ", "Admiration en réussissant "], "entered": [], "trait": [2, 3], "correct": ""},
+        {"type": "single", "question": "Êtes-vous motivé par l’amour des autres ou par l’image d’efficacité ?", "answers": ["Amour des autres ", "Image d'efficacité "], "entered": [], "trait": [2, 3], "correct": ""},
+
+        {"type": "single", "question": "Êtes-vous centré sur ce que ressent l’autre ou sur votre ressenti intérieur ?", "answers": ["Centré sur l'autre ", "Centré sur soi "], "entered": [], "trait": [2, 4], "correct": ""},
+        {"type": "single", "question": "Avez-vous tendance à vous oublier pour autrui ou à revendiquer votre singularité ?", "answers": ["S'oublier pour autrui ", "Revendiquer sa singularité "], "entered": [], "trait": [2, 4], "correct": ""},
+
+        {"type": "single", "question": "Êtes-vous disponible en permanence pour les autres ou seulement par moments choisis ?", "answers": ["Toujours disponible ", "Moments choisis "], "entered": [], "trait": [2, 5], "correct": ""},
+        {"type": "single", "question": "Vous rechargez-vous auprès des autres ou seul ?", "answers": ["Auprès des autres ", "Seul "], "entered": [], "trait": [2, 5], "correct": ""},
+
+        {"type": "single", "question": "Vous sentez-vous indispensable aux autres ou protégé par la loyauté ?", "answers": ["Indispensable ", "Protégé par loyauté "], "entered": [], "trait": [2, 6], "correct": ""},
+        {"type": "single", "question": "Cherchez-vous l’amour par le don ou la sécurité par la fidélité ?", "answers": ["Amour par le don ", "Sécurité par la fidélité "], "entered": [], "trait": [2, 6], "correct": ""},
+
+        {"type": "single", "question": "Vous adaptez-vous pour plaire ou choisissez-vous vos relations selon vos envies ?", "answers": ["Adapter pour plaire ", "Choisir selon envies "], "entered": [], "trait": [2, 7], "correct": ""},
+        {"type": "single", "question": "Êtes-vous tourné vers les besoins des autres ou vers vos propres désirs ?", "answers": ["Besoins des autres ", "Propres désirs "], "entered": [], "trait": [2, 7], "correct": ""},
+
+        {"type": "single", "question": "Vous adaptez-vous pour plaire ou imposez-vous votre volonté ?", "answers": ["Adapter pour plaire ", "Imposer sa volonté "], "entered": [], "trait": [2, 8], "correct": ""},
+        {"type": "single", "question": "Réprimez-vous vos besoins ou les affirmez-vous haut et fort ?", "answers": ["Réprimer ses besoins ", "Les affirmer haut et fort "], "entered": [], "trait": [2, 8], "correct": ""},
+
+        {"type": "single", "question": "Oubliez-vous vos besoins en aidant activement ou en acceptant passivement ?", "answers": ["Aider activement ", "Accepter passivement "], "entered": [], "trait": [2, 9], "correct": ""},
+        {"type": "single", "question": "Vous imposez-vous pour aider ou vous effacez-vous pour maintenir la paix ?", "answers": ["S'imposer pour aider ", "S'effacer pour la paix "], "entered": [], "trait": [2, 9], "correct": ""},
+        {"type": "single", "question": "Voulez-vous être reconnu pour vos accomplissements ou votre originalité ?", "answers": ["Accomplissements ", "Originalité "], "entered": [], "trait": [3, 4], "correct": ""},
+        {"type": "single", "question": "Êtes-vous stable émotionnellement ou changeant émotionnellement ?", "answers": ["Stable émotionnellement ", "Changeant émotionnellement "], "entered": [], "trait": [3, 4], "correct": ""},
+
+        {"type": "single", "question": "Êtes-vous toujours dans l’action ou alternez-vous action et retrait ?", "answers": ["Toujours dans l'action ", "Alterner action et retrait "], "entered": [], "trait": [3, 5], "correct": ""},
+        {"type": "single", "question": "Préférez-vous agir ou observer avant d’agir ?", "answers": ["Agir ", "Observer avant d'agir "], "entered": [], "trait": [3, 5], "correct": ""},
+
+        {"type": "single", "question": "Visez-vous la reconnaissance publique ou la validation du groupe ?", "answers": ["Reconnaissance publique ", "Validation du groupe "], "entered": [], "trait": [3, 6], "correct": ""},
+        {"type": "single", "question": "Avez-vous confiance en vous ou doutez-vous facilement ?", "answers": ["Confiance en soi ", "Doute facilement "], "entered": [], "trait": [3, 6], "correct": ""},
+
+        {"type": "single", "question": "Vous motivez-vous par le succès reconnu ou par l’accumulation d’expériences ?", "answers": ["Succès reconnu ", "Accumulation d'expériences "], "entered": [], "trait": [3, 7], "correct": ""},
+        {"type": "single", "question": "Préférez-vous atteindre un objectif clair ou explorer plusieurs options ?", "answers": ["Atteindre objectif clair ", "Explorer options "], "entered": [], "trait": [3, 7], "correct": ""},
+
+        {"type": "single", "question": "Changez-vous d’avis pour réussir ou restez-vous ferme sur vos positions ?", "answers": ["Changer d'avis ", "Rester ferme "], "entered": [], "trait": [3, 8], "correct": ""},
+        {"type": "single", "question": "Vous ajustez-vous stratégiquement ou vous imposez-vous frontalement ?", "answers": ["S'ajuster stratégiquement ", "S'imposer frontalement "], "entered": [], "trait": [3, 8], "correct": ""},
+
+        {"type": "single", "question": "Vivez-vous à un rythme rapide et orienté résultat ou lent et sans confrontation ?", "answers": ["Rapide et résultat ", "Lent et sans confrontation "], "entered": [], "trait": [3, 9], "correct": ""},
+        {"type": "single", "question": "Priorisez-vous les objectifs ou l’harmonie ?", "answers": ["Objectifs ", "Harmonie "], "entered": [], "trait": [3, 9], "correct": ""},
+
+        {"type": "single", "question": "Vivez-vous des émotions intenses ou les mettez-vous à distance ?", "answers": ["Émotions intenses ", "Mettre à distance "], "entered": [], "trait": [4, 5], "correct": ""},
+        {"type": "single", "question": "Avez-vous besoin d’exprimer vos sentiments ou de les contenir ?", "answers": ["Exprimer sentiments ", "Contenir sentiments "], "entered": [], "trait": [4, 5], "correct": ""},
+
+        {"type": "single", "question": "Remettez-vous en cause les règles par émotions ou par peur d’erreur ?", "answers": ["Remettre en cause par émotions ", "Remettre en cause par peur d'erreur "], "entered": [], "trait": [4, 6], "correct": ""},
+        {"type": "single", "question": "Résistez-vous par rébellion émotionnelle ou par méfiance ?", "answers": ["Rébellion émotionnelle ", "Méfiance "], "entered": [], "trait": [4, 6], "correct": ""},
+
+        {"type": "single", "question": "Cherchez-vous l’intensité des émotions tristes ou la joie d’éviter ces émotions ?", "answers": ["Intensité émotions tristes ", "Joie d'éviter émotions "], "entered": [], "trait": [4, 7], "correct": ""},
+        {"type": "single", "question": "Vous sentez-vous à l’aise avec la mélancolie ou la fuyez-vous ?", "answers": ["À l'aise mélancolie ", "Fuir mélancolie "], "entered": [], "trait": [4, 7], "correct": ""},
+
+        {"type": "single", "question": "Vous laissez-vous submerger par vos émotions ou les dépassez-vous par l’action ?", "answers": ["Submergé par émotions ", "Dépassez par action "], "entered": [], "trait": [4, 8], "correct": ""},
+        {"type": "single", "question": "Exprimez-vous votre vulnérabilité ou la cachez-vous sous la force ?", "answers": ["Exprimer vulnérabilité ", "Cacher vulnérabilité "], "entered": [], "trait": [4, 8], "correct": ""},
+
+        {"type": "single", "question": "Vous sentez-vous unique et à part ou semblable et proche des autres ?", "answers": ["Unique et à part ", "Semblable et proche "], "entered": [], "trait": [4, 9], "correct": ""},
+        {"type": "single", "question": "Vous recherchez l’intensité émotionnelle ou la paix intérieure ?", "answers": ["Intensité émotionnelle ", "Paix intérieure "], "entered": [], "trait": [4, 9], "correct": ""},
+
+        {"type": "single", "question": "Protégez-vous votre espace par retrait ou par vigilance ?", "answers": ["Par retrait ", "Par vigilance "], "entered": [], "trait": [5, 6], "correct": ""},
+        {"type": "single", "question": "Préférez-vous analyser seul ou vérifier collectivement ?", "answers": ["Analyser seul ", "Vérifier collectivement "], "entered": [], "trait": [5, 6], "correct": ""},
+
+        {"type": "single", "question": "Réduisez-vous vos besoins au minimum ou multipliez-vous vos projets ?", "answers": ["Réduire besoins ", "Multiplier projets "], "entered": [], "trait": [5, 7], "correct": ""},
+        {"type": "single", "question": "Préférez-vous économiser votre énergie ou la dépenser pleinement ?", "answers": ["Économiser énergie ", "Dépenser énergie "], "entered": [], "trait": [5, 7], "correct": ""},
+
+        {"type": "single", "question": "Défendez-vous votre espace par retrait ou par prise de pouvoir ?", "answers": ["Défendre par retrait ", "Défendre par pouvoir "], "entered": [], "trait": [5, 8], "correct": ""},
+        {"type": "single", "question": "Préférez-vous observer à distance ou agir directement ?", "answers": ["Observer à distance ", "Agir directement "], "entered": [], "trait": [5, 8], "correct": ""},
+
+        {"type": "single", "question": "Tracez-vous des limites claires ou vous diluez-vous dans l’environnement ?", "answers": ["Tracer limites ", "Se diluer dans environnement "], "entered": [], "trait": [5, 9], "correct": ""},
+        {"type": "single", "question": "Préférez-vous rester séparé ou fusionner avec les autres ?", "answers": ["Rester séparé ", "Fusionner avec les autres "], "entered": [], "trait": [5, 9], "correct": ""},
+
+        {"type": "single", "question": "Vous voyez d’abord ce qui pourrait mal tourner ou ce qui pourrait bien arriver ?", "answers": ["Ce qui pourrait mal tourner ", "Ce qui pourrait bien arriver "], "entered": [], "trait": [6, 7], "correct": ""},
+        {"type": "single", "question": "Préférez-vous la prudence ou l’optimisme ?", "answers": ["Prudence ", "Optimisme "], "entered": [], "trait": [6, 7], "correct": ""},
+
+        {"type": "single", "question": "Hésitez-vous avant d’agir ou foncez-vous immédiatement ?", "answers": ["Hésiter avant d'agir ", "Foncer immédiatement "], "entered": [], "trait": [6, 8], "correct": ""},
+        {"type": "single", "question": "Doutez-vous avant de décider ou décidez-vous instinctivement ?", "answers": ["Douter avant de décider ", "Décider instinctivement "], "entered": [], "trait": [6, 8], "correct": ""},
+
+        {"type": "single", "question": "Vérifiez-vous avant d’agir ou avancez-vous en vous adaptant ?", "answers": ["Vérifier avant d'agir ", "Avancer en adaptant "], "entered": [], "trait": [6, 9], "correct": ""},
+        {"type": "single", "question": "Méfiez-vous facilement ou faites-vous confiance par défaut ?", "answers": ["Méfier facilement ", "Faire confiance par défaut "], "entered": [], "trait": [6, 9], "correct": ""},
+
+        {"type": "single", "question": "Évitez-vous les conflits ou les provoquez-vous pour défendre vos idées ?", "answers": ["Éviter conflits ", "Provoquer conflits "], "entered": [], "trait": [7, 8], "correct": ""},
+        {"type": "single", "question": "Fuyez-vous l’affrontement ou l’accueillez-vous ?", "answers": ["Fuir affrontement ", "Accueillir affrontement "], "entered": [], "trait": [7, 8], "correct": ""},
+
+        {"type": "single", "question": "Agissez-vous par désir personnel ou par adaptation aux autres ?", "answers": ["Désir personnel ", "Adaptation aux autres "], "entered": [], "trait": [7, 9], "correct": ""},
+        {"type": "single", "question": "Cherchez-vous la stimulation ou la tranquillité ?", "answers": ["Stimulation ", "Tranquillité "], "entered": [], "trait": [7, 9], "correct": ""},
+
+        {"type": "single", "question": "Préférez-vous affirmer vos opinions ou écouter celles des autres ?", "answers": ["Affirmer opinions ", "Écouter opinions autres "], "entered": [], "trait": [8, 9], "correct": ""},
+        {"type": "single", "question": "Défendez-vous fermement vos idées ou acceptez-vous les divergences ?", "answers": ["Défendre fermement ", "Accepter divergences "], "entered": [], "trait": [8, 9], "correct": ""}
     ]
 }
 
@@ -419,6 +527,10 @@ const displayResult = (weights) => {
     ctx.stroke()
 }
 
+function argMax(array) {
+  return [].map.call(array, (x, i) => [x, i]).reduce((r, a) => (a[0] > r[0] ? a : r))[1];
+}
+
 const loadResult = (questions) => {
     let weights = Array(9).fill(0)
     let cnt = Array(9).fill(0)
@@ -443,6 +555,41 @@ const loadResult = (questions) => {
     for (let i = 0; i < 9; i++) {
         weights[i] /= Math.max(cnt[i], 1)
     }
+
+    let m = 0
+    let ms = 0
+    let mi = 0
+    let msi = 0
+    if (weights[0] <= weights[1]) {
+        m = weights[1]
+        ms = weights[0]
+        mi = 1
+        msi = 0
+    } else {
+        m = weights[0]
+        ms = weights[1]
+        mi = 0
+        msi = 1
+    }
+    for (let i = 0; i < 9; i++) {
+        if (weights[i] >= m)
+        {
+            ms = m
+            msi = mi
+            m = weights[i]
+            mi = i
+        }
+    }
+    return {"mi": mi, "msi": msi, "weights": weights}
+}
+
+const loadFinalResult = (weights, cat) => {
+    let catL = ["1 - Perfectionniste", "2 - Altruiste", "3 - Battant", "4 - Romantique", "5 - Observateur", "6 - Loyaliste", "7 - Epicurien", "8 - Protecteur", "9 - Médiateur"]
+    let catE = document.getElementById("cat")
+    let catP = document.getElementById("catP")
+    catE.innerHTML = catL[cat - 1]
+    catP.style["display"] = "block"
+
     displayResult(weights)
     let quizResultDiv = document.getElementById("quizz-result-container");
     let questionIterationContainer = document.getElementById("question-iteration-container")
@@ -451,6 +598,7 @@ const loadResult = (questions) => {
     quizResultDiv.style["display"] = "block";
     questionIterationContainer.style["display"] = "none";
     questionContainer.style["display"] = "none";
+
 }
 
 // Creates elements for multiple choice questions (checkboxes & radios)
@@ -621,6 +769,9 @@ const ShowHideContinueButton = (question) => {
     }
 }
 
+let final = false;
+let remWeights = null;
+
 // Function to load next question & possible answers in object
 const loadNewQuestion = async (adjustment) => {
     // Saves written answers before moving on to next question
@@ -642,7 +793,38 @@ const loadNewQuestion = async (adjustment) => {
         }
     }
     else {
-        loadResult(quiz.questions)
+        if (!final) {
+            let ret = loadResult(quiz.questions)
+            remWeights = ret.weights
+            let a = 0;
+            let b = 0;
+            if (ret.mi < ret.msi) {
+                a = ret.mi
+                b = ret.msi
+            } else {
+                b = ret.mi
+                a = ret.msi
+            }
+            a += 1
+            b += 1
+            if (remWeights[ret.mi] - remWeights[ret.mi] > 0.01) {
+                loadFinalResult(remWeights)
+            } else {
+                for (let i = 0; i < quiz["questions-diff"].length; i++) {
+                    let q = quiz["questions-diff"][i]
+                    console.log({"a": a, "b": b, "tr": q.trait})
+                    if (q.trait[0] === a && q.trait[1] === b) {
+                        quiz.questions.push(q)
+                        break
+                    }
+                }
+                final = true
+            }
+        } else {
+            let ans = quiz.questions[quiz.questions.length - 1].entered - 65
+            let cat = quiz.questions[quiz.questions.length - 1].trait[ans]
+            loadFinalResult(remWeights, cat);
+        }
     }
 }
 

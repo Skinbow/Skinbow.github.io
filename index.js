@@ -799,7 +799,7 @@ const loadNewQuestion = async (adjustment) => {
             loadQuestion(quiz.questions[currentQuestionIndex])
         }
     }
-    else {
+    else if (currentQuestionIndex === quiz.questions.length - 1) {
         if (!final) {
             remWeights = calculateResult(quiz.questions)
             let { "mi": mi, "msi": msi } = largestIndices(remWeights)
@@ -988,9 +988,7 @@ const ad_QuestionIteration = () => {
     let prev = document.getElementById(`previous-question-load`)
     let next = document.getElementById(`next-question-load`)
     prev.onclick = () => {
-        if (currentQuestionIndex > 0 && !final) {
-            loadNewQuestion(prev.id)
-        }
+        loadNewQuestion(prev.id)
     }
     next.onclick = () => {
         if (quiz.questions[currentQuestionIndex].entered.length != 0) {
